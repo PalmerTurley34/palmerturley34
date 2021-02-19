@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Palmer 👋
+---
 
-<!--
-**PalmerTurley34/palmerturley34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Data Scientist based in Hurricane, UT.
 
-Here are some ideas to get you started:
+I love building machince learning models, data analysis, and using data to help shape the future!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - I am proficient in Python and many of its libraries inlcuding Pandas, SciKit Learn, TensorFlow, Plotly and more!
+ - I have a lot of experience with relational data bases and SQL.
+
+Find me online:
+ - <a href="https://www.linkedin.com/in/palmerturley/">LinkedIn</a>
+ - <a href="https://palmerturley34.github.io/">Portfolio</a>
+ - <a href="palmerturley34@gmail.com">Email</a>
