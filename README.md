@@ -11,4 +11,4 @@ I love building machince learning models, data analysis, and using data to help 
 Find me online:
  - <a href="https://www.linkedin.com/in/palmerturley/">LinkedIn</a>
  - <a href="https://palmerturley34.github.io/">Portfolio</a>
- - <a href="palmerturley34@gmail.com">Email</a>
+ - Email: palmerturley34@gmail.com
